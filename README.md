@@ -1,5 +1,3 @@
-# **Library Management System (LMS) - iOS**
-
 ## **App Vision**
 A comprehensive and customizable iOS application designed to streamline library operations, enhance communication, and automate processes for Admins, Librarians, and Members.
 
